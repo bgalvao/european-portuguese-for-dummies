@@ -1,0 +1,7 @@
+[book]
+authors = ["Bernardo Galvão"]
+language = "en"
+multilingual = false
+src = "src"
+title = "European Portuguese for Dummies"
+description = "Learn how the natives actually speak european portuguese (pt-pt)!"
